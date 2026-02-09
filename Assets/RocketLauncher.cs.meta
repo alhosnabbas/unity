@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3097477f4f157f249b939519448f7c88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocketPrefab: {instanceID: 0}
+  - landingAreaCenter: {instanceID: 0}
+  - launchPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
